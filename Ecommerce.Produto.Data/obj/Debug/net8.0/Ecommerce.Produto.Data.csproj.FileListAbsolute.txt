@@ -1,0 +1,17 @@
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\bin\Debug\net8.0\Ecommerce.Produto.Data.deps.json
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\bin\Debug\net8.0\Ecommerce.Produto.Data.runtimeconfig.json
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\bin\Debug\net8.0\Ecommerce.Produto.Data.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\bin\Debug\net8.0\Ecommerce.Produto.Data.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\bin\Debug\net8.0\Ecommerce.Produto.Domain.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\bin\Debug\net8.0\Ecommerce.Produto.Domain.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.csproj.AssemblyReference.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.AssemblyInfoInputs.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.AssemblyInfo.cs
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.csproj.CoreCompileInputs.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerc.5AE4ED81.Up2Date
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\refint\Ecommerce.Produto.Data.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\Ecommerce.Produto.Data.genruntimeconfig.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Data\obj\Debug\net8.0\ref\Ecommerce.Produto.Data.dll

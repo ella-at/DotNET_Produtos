@@ -1,0 +1,12 @@
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\bin\Debug\net8.0\Ecommerce.Produto.Domain.deps.json
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\bin\Debug\net8.0\Ecommerce.Produto.Domain.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\bin\Debug\net8.0\Ecommerce.Produto.Domain.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\Ecommerce.Produto.Domain.csproj.AssemblyReference.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\Ecommerce.Produto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\Ecommerce.Produto.Domain.AssemblyInfoInputs.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\Ecommerce.Produto.Domain.AssemblyInfo.cs
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\Ecommerce.Produto.Domain.csproj.CoreCompileInputs.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\Ecommerce.Produto.Domain.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\refint\Ecommerce.Produto.Domain.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\Ecommerce.Produto.Domain.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Domain\obj\Debug\net8.0\ref\Ecommerce.Produto.Domain.dll
