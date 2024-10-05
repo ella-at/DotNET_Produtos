@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d1lwTWH8QEk=",
+  "success": true,
+  "projectFilePath": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Application\\Ecommerce.Produto.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcela Abrahão\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\Marcela Abrahão\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Marcela Abrahão\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
+    "C:\\Users\\Marcela Abrahão\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

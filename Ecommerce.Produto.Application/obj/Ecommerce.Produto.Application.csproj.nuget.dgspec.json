@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Application\\Ecommerce.Produto.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Application\\Ecommerce.Produto.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Application\\Ecommerce.Produto.Application.csproj",
+        "projectName": "Ecommerce.Produto.Application",
+        "projectPath": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Application\\Ecommerce.Produto.Application.csproj",
+        "packagesPath": "C:\\Users\\Marcela Abrahão\\.nuget\\packages\\",
+        "outputPath": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marcela Abrahão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Domain\\Ecommerce.Produto.Domain.csproj": {
+                "projectPath": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Domain\\Ecommerce.Produto.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Domain\\Ecommerce.Produto.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Domain\\Ecommerce.Produto.Domain.csproj",
+        "projectName": "Ecommerce.Produto.Domain",
+        "projectPath": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Domain\\Ecommerce.Produto.Domain.csproj",
+        "packagesPath": "C:\\Users\\Marcela Abrahão\\.nuget\\packages\\",
+        "outputPath": "E:\\FIAP\\DotNET\\ecommerce-produto-api-master\\Ecommerce.Produto.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marcela Abrahão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

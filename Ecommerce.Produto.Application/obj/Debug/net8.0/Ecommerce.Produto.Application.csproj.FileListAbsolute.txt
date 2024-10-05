@@ -1,0 +1,15 @@
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\bin\Debug\net8.0\Ecommerce.Produto.Application.deps.json
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\bin\Debug\net8.0\Ecommerce.Produto.Application.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\bin\Debug\net8.0\Ecommerce.Produto.Application.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\bin\Debug\net8.0\Ecommerce.Produto.Domain.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\bin\Debug\net8.0\Ecommerce.Produto.Domain.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerce.Produto.Application.csproj.AssemblyReference.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerce.Produto.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerce.Produto.Application.AssemblyInfoInputs.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerce.Produto.Application.AssemblyInfo.cs
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerce.Produto.Application.csproj.CoreCompileInputs.cache
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerc.EACB3E17.Up2Date
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerce.Produto.Application.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\refint\Ecommerce.Produto.Application.dll
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\Ecommerce.Produto.Application.pdb
+E:\FIAP\DotNET\ecommerce-produto-api-master\Ecommerce.Produto.Application\obj\Debug\net8.0\ref\Ecommerce.Produto.Application.dll
